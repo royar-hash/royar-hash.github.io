@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Baby Creek", "Lon": -83.139961, "Lat": 42.291728, "Type": "SDF" }, "geometry": { "type": "Point", "coordinates": [ -83.139961, 42.291728 ] } },
+{ "type": "Feature", "properties": { "Name": "Conner Creek", "Lon": -82.953093, "Lat": 42.358701, "Type": "RTB" }, "geometry": { "type": "Point", "coordinates": [ -82.953093, 42.358701 ] } },
+{ "type": "Feature", "properties": { "Name": "Hubbell-Southfield", "Lon": -83.205027, "Lat": 42.30547, "Type": "RTB" }, "geometry": { "type": "Point", "coordinates": [ -83.205027, 42.30547 ] } },
+{ "type": "Feature", "properties": { "Name": "Leib", "Lon": -83.007305, "Lat": 42.337929, "Type": "SDF" }, "geometry": { "type": "Point", "coordinates": [ -83.007305, 42.337929 ] } },
+{ "type": "Feature", "properties": { "Name": "Oakwood", "Lon": -83.136412, "Lat": 42.279085, "Type": "RTB" }, "geometry": { "type": "Point", "coordinates": [ -83.136412, 42.279085 ] } },
+{ "type": "Feature", "properties": { "Name": "Puritan-Fenkell", "Lon": -83.208779, "Lat": 42.365829, "Type": "RTB" }, "geometry": { "type": "Point", "coordinates": [ -83.208779, 42.365829 ] } },
+{ "type": "Feature", "properties": { "Name": "St. Aubin", "Lon": -83.000845, "Lat": 42.350408, "Type": "SDF" }, "geometry": { "type": "Point", "coordinates": [ -83.000845, 42.350408 ] } },
+{ "type": "Feature", "properties": { "Name": "Belle Isle", "Lon": -82.996955, "Lat": 42.343444, "Type": "RTB" }, "geometry": { "type": "Point", "coordinates": [ -82.996955, 42.343444 ] } },
+{ "type": "Feature", "properties": { "Name": "Seven-Mile", "Lon": -83.194789, "Lat": 42.3666, "Type": "RTB" }, "geometry": { "type": "Point", "coordinates": [ -83.194789, 42.3666 ] } }
+]
+}
